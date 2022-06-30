@@ -38,20 +38,18 @@
 
 ![screenshot](https://user-images.githubusercontent.com/92894663/176735595-dbb6e181-827a-4ed6-bd44-1b0dbcbfaeb3.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+After taking and watching so many courses and videos on the Internet, I decided to take this challenge in order to improve my skills in the web development universe.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can find the demo [here]("https://dev-challenge-404-not-found-five.vercel.app/")
+- It has been an amazing experience trying to find the best way to complete the given user stories
+- I learnt how to organize items and so on with display flex and its properties
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Features
 
@@ -70,6 +68,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [serratoangel.github.io](https://serratoangel.github.io/)
+- GitHub [@serratoangel](https://{github.com/serratoangel})
